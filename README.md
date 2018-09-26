@@ -5,3 +5,4 @@
 ![alt text](https://github.com/Sulthony18/modul3/blob/master/latihan4.PNG)
 ![alt text](https://github.com/Sulthony18/modul3/blob/master/latihan5.PNG)
 ![alt text](https://github.com/Sulthony18/modul3/blob/master/latihan6.PNG)
+![alt text](https://github.com/Sulthony18/modul3/blob/master/Tugas.PNG)
